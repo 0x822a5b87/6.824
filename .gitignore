@@ -2,3 +2,8 @@ pkg/
 api.key
 .api.key.trimmed
 *-handin.tar.gz
+
+
+.tags
+.idea
+src/main/mr-out-0
